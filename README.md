@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, This Is Lavitra Joshi
+  -🎓 16 y/o math & AI enthusiast from India  
+  -🧠 I Am A CMI aspirant, Preparing for CMI, STEP & other olympiad-style exams  
+  -🤖 Deeply passionate about LLMs, GenAI, ML & building AI from scratch  
 
-<!--
-**Padmavrish/Padmavrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+  -Programming Languages: Python, C++
 
-Here are some ideas to get you started:
+## Achievements
+  -🛠️Innovation:
+      -Won the RIC Science Fair Exhibition
+## 🌱Currently Learning the Following
+  - 📖 Mathematics for Machine Learning
+  - 📖 Hands-On LLMs (Alammar & Grootendorst)  
+  - 📖 Hands-On Generative AI with Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## CONNECT WITH ME:
+   - Linkedin: https://www.linkedin.com/in/lavitra-joshi-27727938a/
+
+
+  *"The best way to understand AI is to build it."*
+  *"Even if you sell cotton candy, be sure to be the greatest at it."*
