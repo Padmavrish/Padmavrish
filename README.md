@@ -1,6 +1,6 @@
 ## Hi there 👋, This Is Lavitra Joshi
   -🎓 16 y/o math & AI enthusiast from India  
-  -🧠 I Am A CMI aspirant, Preparing for CMI, STEP & other olympiad-style exams  
+  -🧠 I Am A IMPAT Aspirant, looking forward from doing my BBA and MBA from IIM Indore along with a BSc(hons) AI Degree  
   -🤖 Deeply passionate about LLMs, GenAI, ML & building AI from scratch  
 
 ## Skills
